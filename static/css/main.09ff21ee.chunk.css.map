@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,GACE,oBAAqB","file":"main.09ff21ee.chunk.css","sourcesContent":["// styles go here\r\nli {\r\n  list-style-type: none;\r\n}\r\n"]}
